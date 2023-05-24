@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69949065857",
+    "project_id": "krabetjihad",
+    "storage_bucket": "krabetjihad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69949065857:android:62314053da05bb5aa89b80",
+        "android_client_info": {
+          "package_name": "com.example.krabetjihad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69949065857-gc50mr8m9on4ed6qbnpj9e8nrf607sm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcC9ZqpndYK92qc4NGzrD6xy4AGb3wb-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69949065857-gc50mr8m9on4ed6qbnpj9e8nrf607sm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
